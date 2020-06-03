@@ -9,6 +9,6 @@ This is a start page for your browser. You can add tags with links in the index.
 jQuery v3.5.1
 ```
 
-![img1](https://i.imgur.com/3EAiRbp.png)
+![img1](https://i.imgur.com/5jbGtYL.jpg)
 
-![img1](https://i.imgur.com/vmeFe3B.png)
+![img1](https://i.imgur.com/T4Yjp1l.jpg)
